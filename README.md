@@ -1,4 +1,4 @@
-#🌍  Travel-Blog-Website
+# 🌍  Travel-Blog-Website
 A full-stack travel blogging platform built collaboratively for a college alumnus, focusing on sharing information, thoughts, and personal travel experiences.
 
 Tech Stack:
