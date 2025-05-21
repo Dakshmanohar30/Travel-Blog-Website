@@ -38,7 +38,7 @@ travel-blog/
 
 🔐 Secure and scalable backend data management
 
-#📌 Key Contributions
+# 📌 Key Contributions
 Developed and optimized the backend API using Django REST Framework
 
 Ensured efficient data fetching and management
